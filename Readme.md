@@ -1,4 +1,4 @@
 #Topics
 
 ## Topic 1
-[Topic 1 Readme](Topic1/README.md)
+[Topic 1 Readme](Topic1/Readme.md)
